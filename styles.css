@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(217, 217, 217);
+    font-family: monospace;
+    text-align: center;
+}
+
+.header {
+    font-size: 32px;
+    border-style: solid;
+    background: #ffba60;
+}
+
+.sweet,
+.lazy,
+.butter {
+    font-size: 24px;
+    color: black;
+}
+
+img {
+    border-radius: 15%;
+  }
